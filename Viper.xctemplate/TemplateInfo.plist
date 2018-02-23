@@ -11,7 +11,7 @@
 		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>DefaultCompletionName</key>
-	<string>SwiftViperModule</string>
+	<string>Viper</string>
 	<key>Description</key>
 	<string>Basic Swift VIPER module template. Creates View, Interactor, Presenter, Router with protocols.</string>
 	<key>Kind</key>
@@ -44,22 +44,6 @@
 			<key>Type</key>
 			<string>static</string>
 		</dict>
-		<dict>
-			<key>Identifier</key>
-			<string>InputOutput</string>
-			<key>Name</key>
-			<string>Divide Interactor protocol (Input &amp; Output)</string>
-			<key>Description</key>
-			<string>Divide Interactor protocol (Input &amp; Output)</string>
-			<key>Type</key>
-			<string>checkbox</string>
-			<key>Default</key>
-			<string>false</string>
-			<key>NotPersisted</key>
-			<true/>
-		</dict>
 	</array>
-	<key>Template Author</key>
-	<string>Juanpe Catalán - @JuanpeCMiOS</string>
 </dict>
 </plist>
